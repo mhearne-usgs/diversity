@@ -61,7 +61,7 @@ to people who look like me all the time.  So there's that.
 
 So do you *have* to talk about diversity?  No, you don't.  You don't
 even *have* to think it about it if you don't want to.  But don't roll
-your eyes at it, because it *is* important, and we can help solve the
+your eyes at it, because it *is* important, and we *can* help solve the
 problem.
 
 If you *do* want to talk about it, then there is a Diversity and
