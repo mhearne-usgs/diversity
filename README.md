@@ -47,15 +47,16 @@ some potential questions.
 
  - Why do you care?  Do you have a <del>dog in this fight</del> horse in this race?
 
-   In some immediate sense, no I don't have a horse in this race.  But I
-   *do* care, because I want to live in a society where everyone can
-   contribute to science, regardless of what they look like, how they
-   talk, or what they do in their personal time.  And if that isn't
-   enough of an argument, how about this: I've met a lot of other middle-aged
-   white dudes like myself at this conference over the years.  Don't get
-   me wrong - you guys are great - we've had some fascinating
-   conversations, but maybe, just maybe, it gets a little boring talking
-   to people who look like me all the time.  So there's that.
+   * In some immediate sense, no I don't have a horse in this race.
+     But I do* care, because I want to live in a society where
+     everyone can contribute to science, regardless of what they
+     look like, how they talk, or what they do in their personal
+     time.  And if that isn't enough of an argument, how about this:
+     I've met a lot of other middle-aged white dudes like myself at
+     this conference over the years.  Don't get me wrong - you guys
+     are great - we've had some fascinating conversations, but
+     maybe, just maybe, it gets a little boring talking to people
+     who look like me all the time.  So there's that.
 
 So do you *have* to talk about diversity?  No, you don't.  You don't
 even *have* to think it about it if you don't want to.  But don't roll
