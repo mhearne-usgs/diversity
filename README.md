@@ -1,5 +1,4 @@
-# diversity
-Diversity from a White Dude's Perspective
+# Diversity from a White Dude's Perspective
 
 I have a confession to make.  I am on the planning committee for this
 year's Scipy (Birds of a Feather), and there was a lot of initial
