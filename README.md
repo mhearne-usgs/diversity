@@ -14,7 +14,7 @@ But as I thought about previous attendance at Scipy, and as I look
 around the room today, I realize that we *have* to talk about
 diversity.  This conference is far more diverse than it used to be -
 my first Scipy was in 2007, and I can tell you that there very few
-women and people of color at that meeting.  And even today, if you
+women and people of color at that meeting.  But even today, if you
 turn to your left or right, and look at the person next to you, the
 odds are still very high that that person looks something like me.
 
@@ -25,7 +25,7 @@ some potential questions.
    The simple answer is no, we can't.  There are numerous problems that
    exist upstream of us, so to speak, including unequal funding in
    schools (at all levels), race/gender/sexual orientation bias in hiring,
-   and the fact that girls are still sometimes told that they're bad at
+   and the fact that girls are *still* sometimes told that they're bad at
    math.
 
    The more nuanced answer is that we can (and should!) do *something*.
@@ -50,7 +50,7 @@ some potential questions.
    * In some immediate sense, no I don't have a horse in this race.
      But I *do* care, because I want to live in a society where
      everyone can contribute to science, regardless of what they
-     look like, how they talk, or what they do in their personal
+     look like, how they talk, or what they do with their personal
      time.  And if that isn't enough of an argument, how about this:
      I've met a lot of other middle-aged white dudes like myself at
      this conference over the years.  Don't get me wrong - you guys
