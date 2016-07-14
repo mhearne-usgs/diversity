@@ -82,7 +82,7 @@ I've gotten a number of good comments since writing this:
    they want to or not.  This is an excellent point, and my response
    is that my primary audience is other white dudes like myself (but
    thank you for reading!).  A really long winded way to say "check
-   your privilege, I suppose.  The other comment I have on this is
+   your privilege", I suppose.  The other comment I have on this is
    that I hope even those people who are forced to think about these
    issues frequently can get to the point where they are forced to
    think about them less, at least at this conference, and spend more
