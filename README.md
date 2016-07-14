@@ -93,6 +93,6 @@ I've gotten a number of good comments since writing this:
    violent - I agree, see edit above.  "Skin in the game" was a
    suggestion I didn't take, because that just sounds gross.
 
- - Has nobody noticed my greatest sin - *Committing to master*.
+ - Has nobody noticed my greatest sin?  *I'm Committing to master*.
 
 
